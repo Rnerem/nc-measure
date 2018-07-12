@@ -1,0 +1,4540 @@
+- expected_resistance: 600
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - &id001 !!python/name:numpy.ndarray ''
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - &id002 !!python/object/apply:numpy.dtype
+      args: [f8, 0, 1]
+      state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+    - false
+    - !!binary |
+      AAAAAAAAAD0AAAAAALiBQA==
+  type: test_ic
+- expected_resistance: 600
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAADAckAAAAAAALiBQA==
+  type: test_ic
+- expected_resistance: 600
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAADAgkAAAAAAALiBQA==
+  type: test_ic
+- expected_resistance: 600
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAAAgjEAAAAAAALiBQA==
+  type: test_ic
+- expected_resistance: 600
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAADAkkAAAAAAALiBQA==
+  type: test_ic
+- expected_resistance: 600
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAABwl0AAAAAAALiBQA==
+  type: test_ic
+- expected_resistance: 600
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAAAgnEAAAAAAALiBQA==
+  type: test_ic
+- expected_resistance: 600
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAABooEAAAAAAALiBQA==
+  type: test_ic
+- expected_resistance: 600
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAADAokAAAAAAALiBQA==
+  type: test_ic
+- expected_resistance: 600
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAAAYpUAAAAAAALiBQA==
+  type: test_ic
+- expected_resistance: 600
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAABwp0AAAAAAALiBQA==
+  type: test_ic
+- expected_resistance: 600
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAADIqUAAAAAAALiBQA==
+  type: test_ic
+- expected_resistance: 600
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAAAgrEAAAAAAALiBQA==
+  type: test_ic
+- expected_resistance: 15000.0
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAADAYkAAAAAAAFiUwA==
+  num_squares: 25.0
+  type: test_straight_wire
+- expected_resistance: 10000.0
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAACwfUAAAAAAAFiUwA==
+  num_squares: 16.666666666666668
+  type: test_straight_wire
+- expected_resistance: 7500.0
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAAAAiUAAAAAAAFiUwA==
+  num_squares: 12.5
+  type: test_straight_wire
+- expected_resistance: 6000.0
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAACUkUAAAAAAAFiUwA==
+  num_squares: 10.0
+  type: test_straight_wire
+- expected_resistance: 5000.0
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAAColkAAAAAAAFiUwA==
+  num_squares: 8.333333333333334
+  type: test_straight_wire
+- expected_resistance: 4285.714285714285
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAAC8m0AAAAAAAFiUwA==
+  num_squares: 7.142857142857142
+  type: test_straight_wire
+- expected_resistance: 3750.0
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAABooEAAAAAAAFiUwA==
+  num_squares: 6.25
+  type: test_straight_wire
+- expected_resistance: 3333.333333333333
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAADyokAAAAAAAFiUwA==
+  num_squares: 5.555555555555555
+  type: test_straight_wire
+- expected_resistance: 3000.0
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAAB8pUAAAAAAAFiUwA==
+  num_squares: 5.0
+  type: test_straight_wire
+- expected_resistance: 2500.0
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAAAGqEAAAAAAAFiUwA==
+  num_squares: 4.166666666666667
+  type: test_straight_wire
+- expected_resistance: 1500.0
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAACQqkAAAAAAAFiUwA==
+  num_squares: 2.5
+  type: test_straight_wire
+- expected_resistance: 600.0
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAAAarUAAAAAAAFiUwA==
+  num_squares: 1.0
+  type: test_straight_wire
+- expected_resistance: 75000.0
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAADAYkBs9SqK68qdwA==
+  num_squares: 125.0
+  type: test_straight_wire
+- expected_resistance: 50000.00000000001
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAACwfUBs9SqK68qdwA==
+  num_squares: 83.33333333333334
+  type: test_straight_wire
+- expected_resistance: 37500.0
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAAAAiUBs9SqK68qdwA==
+  num_squares: 62.5
+  type: test_straight_wire
+- expected_resistance: 30000.0
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAACUkUBs9SqK68qdwA==
+  num_squares: 50.0
+  type: test_straight_wire
+- expected_resistance: 25000.000000000004
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAAColkBs9SqK68qdwA==
+  num_squares: 41.66666666666667
+  type: test_straight_wire
+- expected_resistance: 21428.571428571424
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAAC8m0Bs9SqK68qdwA==
+  num_squares: 35.71428571428571
+  type: test_straight_wire
+- expected_resistance: 18750.0
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAABooEBs9SqK68qdwA==
+  num_squares: 31.25
+  type: test_straight_wire
+- expected_resistance: 16666.666666666668
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAADyokBs9SqK68qdwA==
+  num_squares: 27.77777777777778
+  type: test_straight_wire
+- expected_resistance: 15000.0
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAAB8pUBs9SqK68qdwA==
+  num_squares: 25.0
+  type: test_straight_wire
+- expected_resistance: 12500.000000000002
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAAAGqEBs9SqK68qdwA==
+  num_squares: 20.833333333333336
+  type: test_straight_wire
+- expected_resistance: 7500.0
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAACQqkBs9SqK68qdwA==
+  num_squares: 12.5
+  type: test_straight_wire
+- expected_resistance: 3000.0
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAAAarUBs9SqK68qdwA==
+  num_squares: 5.0
+  type: test_straight_wire
+- expected_resistance: 150000.0
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAADAYkBs9SqK66ajwA==
+  num_squares: 250.0
+  type: test_straight_wire
+- expected_resistance: 100000.00000000001
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAACwfUBs9SqK66ajwA==
+  num_squares: 166.66666666666669
+  type: test_straight_wire
+- expected_resistance: 75000.0
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAAAAiUBs9SqK66ajwA==
+  num_squares: 125.0
+  type: test_straight_wire
+- expected_resistance: 60000.0
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAACUkUBs9SqK66ajwA==
+  num_squares: 100.0
+  type: test_straight_wire
+- expected_resistance: 50000.00000000001
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAAColkBs9SqK66ajwA==
+  num_squares: 83.33333333333334
+  type: test_straight_wire
+- expected_resistance: 42857.14285714285
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAAC8m0Bs9SqK66ajwA==
+  num_squares: 71.42857142857142
+  type: test_straight_wire
+- expected_resistance: 37500.0
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAABooEBs9SqK66ajwA==
+  num_squares: 62.5
+  type: test_straight_wire
+- expected_resistance: 33333.333333333336
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAADyokBs9SqK66ajwA==
+  num_squares: 55.55555555555556
+  type: test_straight_wire
+- expected_resistance: 30000.0
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAAB8pUBs9SqK66ajwA==
+  num_squares: 50.0
+  type: test_straight_wire
+- expected_resistance: 25000.000000000004
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAAAGqEBs9SqK66ajwA==
+  num_squares: 41.66666666666667
+  type: test_straight_wire
+- expected_resistance: 15000.0
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAACQqkBs9SqK66ajwA==
+  num_squares: 25.0
+  type: test_straight_wire
+- expected_resistance: 6000.0
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAAAarUBs9SqK66ajwA==
+  num_squares: 10.0
+  type: test_straight_wire
+- expected_resistance: 375000.0
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAADAYkAjcEBPYXKowA==
+  num_squares: 625.0
+  type: test_straight_wire
+- expected_resistance: 250000.0
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAACwfUAjcEBPYXKowA==
+  num_squares: 416.6666666666667
+  type: test_straight_wire
+- expected_resistance: 187500.0
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAAAAiUAjcEBPYXKowA==
+  num_squares: 312.5
+  type: test_straight_wire
+- expected_resistance: 150000.0
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAACUkUAjcEBPYXKowA==
+  num_squares: 250.0
+  type: test_straight_wire
+- expected_resistance: 125000.0
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAAColkAjcEBPYXKowA==
+  num_squares: 208.33333333333334
+  type: test_straight_wire
+- expected_resistance: 107142.85714285713
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAAC8m0AjcEBPYXKowA==
+  num_squares: 178.57142857142856
+  type: test_straight_wire
+- expected_resistance: 93750.0
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAABooEAjcEBPYXKowA==
+  num_squares: 156.25
+  type: test_straight_wire
+- expected_resistance: 83333.33333333333
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAADyokAjcEBPYXKowA==
+  num_squares: 138.88888888888889
+  type: test_straight_wire
+- expected_resistance: 75000.0
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAAB8pUAjcEBPYXKowA==
+  num_squares: 125.0
+  type: test_straight_wire
+- expected_resistance: 62500.0
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAAAGqEAjcEBPYXKowA==
+  num_squares: 104.16666666666667
+  type: test_straight_wire
+- expected_resistance: 37500.0
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAACQqkAjcEBPYXKowA==
+  num_squares: 62.5
+  type: test_straight_wire
+- expected_resistance: 15000.0
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAAAarUAjcEBPYXKowA==
+  num_squares: 25.0
+  type: test_straight_wire
+- expected_resistance: 1500000.0
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAADAYkDZ6lUU11utwA==
+  num_squares: 2500.0
+  type: test_straight_wire
+- expected_resistance: 1000000.0
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAACwfUDZ6lUU11utwA==
+  num_squares: 1666.6666666666667
+  type: test_straight_wire
+- expected_resistance: 750000.0
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAAAAiUDZ6lUU11utwA==
+  num_squares: 1250.0
+  type: test_straight_wire
+- expected_resistance: 600000.0
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAACUkUDZ6lUU11utwA==
+  num_squares: 1000.0
+  type: test_straight_wire
+- expected_resistance: 500000.0
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAAColkDZ6lUU11utwA==
+  num_squares: 833.3333333333334
+  type: test_straight_wire
+- expected_resistance: 428571.4285714285
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAAC8m0DZ6lUU11utwA==
+  num_squares: 714.2857142857142
+  type: test_straight_wire
+- expected_resistance: 375000.0
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAABooEDZ6lUU11utwA==
+  num_squares: 625.0
+  type: test_straight_wire
+- expected_resistance: 333333.3333333333
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAADyokDZ6lUU11utwA==
+  num_squares: 555.5555555555555
+  type: test_straight_wire
+- expected_resistance: 300000.0
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAAB8pUDZ6lUU11utwA==
+  num_squares: 500.0
+  type: test_straight_wire
+- expected_resistance: 250000.0
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAAAGqEDZ6lUU11utwA==
+  num_squares: 416.6666666666667
+  type: test_straight_wire
+- expected_resistance: 150000.0
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAACQqkDZ6lUU11utwA==
+  num_squares: 250.0
+  type: test_straight_wire
+- expected_resistance: 60000.0
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAAAarUDZ6lUU11utwA==
+  num_squares: 100.0
+  type: test_straight_wire
+- expected_resistance: 3750000.0
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAADAYkDIsrVspm2xwA==
+  num_squares: 6250.0
+  type: test_straight_wire
+- expected_resistance: 2500000.0
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAACwfUDIsrVspm2xwA==
+  num_squares: 4166.666666666667
+  type: test_straight_wire
+- expected_resistance: 1875000.0
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAAAAiUDIsrVspm2xwA==
+  num_squares: 3125.0
+  type: test_straight_wire
+- expected_resistance: 1500000.0
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AQAAAACUkUDIsrVspm2xwA==
+  num_squares: 2500.0
+  type: test_straight_wire
+- expected_resistance: 1250000.0
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAAColkDIsrVspm2xwA==
+  num_squares: 2083.3333333333335
+  type: test_straight_wire
+- expected_resistance: 1071428.5714285714
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAAC8m0DIsrVspm2xwA==
+  num_squares: 1785.7142857142856
+  type: test_straight_wire
+- expected_resistance: 937500.0
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAABooEDIsrVspm2xwA==
+  num_squares: 1562.5
+  type: test_straight_wire
+- expected_resistance: 833333.3333333334
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAADyokDIsrVspm2xwA==
+  num_squares: 1388.888888888889
+  type: test_straight_wire
+- expected_resistance: 750000.0
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAAB8pUDIsrVspm2xwA==
+  num_squares: 1250.0
+  type: test_straight_wire
+- expected_resistance: 625000.0
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAAAGqEDIsrVspm2xwA==
+  num_squares: 1041.6666666666667
+  type: test_straight_wire
+- expected_resistance: 375000.0
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAACQqkDIsrVspm2xwA==
+  num_squares: 625.0
+  type: test_straight_wire
+- expected_resistance: 150000.0
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAAAarUDIsrVspm2xwA==
+  num_squares: 250.0
+  type: test_straight_wire
+- expected_resistance: 15000000.0
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAADAYkAicEBPYcO0wA==
+  num_squares: 25000.0
+  type: test_straight_wire
+- expected_resistance: 10000000.0
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      //////+vfUAicEBPYcO0wA==
+  num_squares: 16666.666666666668
+  type: test_straight_wire
+- expected_resistance: 7500000.0
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      ////////iEAicEBPYcO0wA==
+  num_squares: 12500.0
+  type: test_straight_wire
+- expected_resistance: 6000000.0
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAACUkUAicEBPYcO0wA==
+  num_squares: 10000.0
+  type: test_straight_wire
+- expected_resistance: 5000000.0
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      //////+nlkAicEBPYcO0wA==
+  num_squares: 8333.333333333334
+  type: test_straight_wire
+- expected_resistance: 4285714.285714285
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAAC8m0AicEBPYcO0wA==
+  num_squares: 7142.857142857142
+  type: test_straight_wire
+- expected_resistance: 3750000.0
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAABooEAicEBPYcO0wA==
+  num_squares: 6250.0
+  type: test_straight_wire
+- expected_resistance: 3333333.3333333335
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAADyokAicEBPYcO0wA==
+  num_squares: 5555.555555555556
+  type: test_straight_wire
+- expected_resistance: 3000000.0
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AQAAAAB8pUAicEBPYcO0wA==
+  num_squares: 5000.0
+  type: test_straight_wire
+- expected_resistance: 2500000.0
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAAAGqEAicEBPYcO0wA==
+  num_squares: 4166.666666666667
+  type: test_straight_wire
+- expected_resistance: 1500000.0
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAACQqkAicEBPYcO0wA==
+  num_squares: 2500.0
+  type: test_straight_wire
+- expected_resistance: 600000.0
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAAAarUAicEBPYcO0wA==
+  num_squares: 1000.0
+  type: test_straight_wire
+- area: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id002
+  - !!binary |
+    mZmZmZmZKUA=
+  expected_resistance: 2400000
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAAA2sEAAAAAAALiBQA==
+  num_squares: 4000
+  size: !!python/tuple
+  - !!python/object/apply:numpy.core.multiarray.scalar
+    - *id002
+    - !!binary |
+      2e2/xSWfDEA=
+  - !!python/object/apply:numpy.core.multiarray.scalar
+    - *id002
+    - !!binary |
+      2e2/xSWfDEA=
+  snspd_layer: !!python/object:phidl.device_layout.Layer {alpha: 0.6, color: '#006400',
+    description: superconductor (wsi), dither: null, gds_datatype: 0, gds_layer: 12,
+    inverted: false, name: m2_nw}
+  type: test_snspd
+  wire_width: 0.04
+- area: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id002
+  - !!binary |
+    zczMzMzMPEA=
+  expected_resistance: 2400000
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAABisUAAAAAAALiBQA==
+  num_squares: 4000
+  size: !!python/tuple
+  - !!python/object/apply:numpy.core.multiarray.scalar
+    - *id002
+    - !!binary |
+      Y/JPVFx3FUA=
+  - !!python/object/apply:numpy.core.multiarray.scalar
+    - *id002
+    - !!binary |
+      Y/JPVFx3FUA=
+  snspd_layer: !!python/object:phidl.device_layout.Layer {alpha: 0.6, color: '#006400',
+    description: superconductor (wsi), dither: null, gds_datatype: 0, gds_layer: 12,
+    inverted: false, name: m2_nw}
+  type: test_snspd
+  wire_width: 0.06
+- area: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id002
+  - !!binary |
+    mZmZmZmZSUA=
+  expected_resistance: 2400000
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAACOskAAAAAAALiBQA==
+  num_squares: 4000
+  size: !!python/tuple
+  - !!python/object/apply:numpy.core.multiarray.scalar
+    - *id002
+    - !!binary |
+      2e2/xSWfHEA=
+  - !!python/object/apply:numpy.core.multiarray.scalar
+    - *id002
+    - !!binary |
+      2e2/xSWfHEA=
+  snspd_layer: !!python/object:phidl.device_layout.Layer {alpha: 0.6, color: '#006400',
+    description: superconductor (wsi), dither: null, gds_datatype: 0, gds_layer: 12,
+    inverted: false, name: m2_nw}
+  type: test_snspd
+  wire_width: 0.08
+- area: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id002
+  - !!binary |
+    AQAAAAAAVEA=
+  expected_resistance: 2400000
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAAC6s0AAAAAAALiBQA==
+  num_squares: 4000
+  size: !!python/tuple
+  - !!python/object/apply:numpy.core.multiarray.scalar
+    - *id002
+    - !!binary |
+      qPSXm3fjIUA=
+  - !!python/object/apply:numpy.core.multiarray.scalar
+    - *id002
+    - !!binary |
+      qPSXm3fjIUA=
+  snspd_layer: !!python/object:phidl.device_layout.Layer {alpha: 0.6, color: '#006400',
+    description: superconductor (wsi), dither: null, gds_datatype: 0, gds_layer: 12,
+    inverted: false, name: m2_nw}
+  type: test_snspd
+  wire_width: 0.1
+- area: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id002
+  - !!binary |
+    zczMzMzMXEA=
+  expected_resistance: 2400000
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAADmtEAAAAAAALiBQA==
+  num_squares: 4000
+  size: !!python/tuple
+  - !!python/object/apply:numpy.core.multiarray.scalar
+    - *id002
+    - !!binary |
+      Y/JPVFx3JUA=
+  - !!python/object/apply:numpy.core.multiarray.scalar
+    - *id002
+    - !!binary |
+      Y/JPVFx3JUA=
+  snspd_layer: !!python/object:phidl.device_layout.Layer {alpha: 0.6, color: '#006400',
+    description: superconductor (wsi), dither: null, gds_datatype: 0, gds_layer: 12,
+    inverted: false, name: m2_nw}
+  type: test_snspd
+  wire_width: 0.12
+- area: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id002
+  - !!binary |
+    mpmZmZmZY0A=
+  expected_resistance: 2400000
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAAAStkAAAAAAALiBQA==
+  num_squares: 4000
+  size: !!python/tuple
+  - !!python/object/apply:numpy.core.multiarray.scalar
+    - *id002
+    - !!binary |
+      HvAHDUELKUA=
+  - !!python/object/apply:numpy.core.multiarray.scalar
+    - *id002
+    - !!binary |
+      HvAHDUELKUA=
+  snspd_layer: !!python/object:phidl.device_layout.Layer {alpha: 0.6, color: '#006400',
+    description: superconductor (wsi), dither: null, gds_datatype: 0, gds_layer: 12,
+    inverted: false, name: m2_nw}
+  type: test_snspd
+  wire_width: 0.14
+- area: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id002
+  - !!binary |
+    mZmZmZmZaUA=
+  expected_resistance: 2400000
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAAA+t0AAAAAAALiBQA==
+  num_squares: 4000
+  size: !!python/tuple
+  - !!python/object/apply:numpy.core.multiarray.scalar
+    - *id002
+    - !!binary |
+      2e2/xSWfLEA=
+  - !!python/object/apply:numpy.core.multiarray.scalar
+    - *id002
+    - !!binary |
+      2e2/xSWfLEA=
+  snspd_layer: !!python/object:phidl.device_layout.Layer {alpha: 0.6, color: '#006400',
+    description: superconductor (wsi), dither: null, gds_datatype: 0, gds_layer: 12,
+    inverted: false, name: m2_nw}
+  type: test_snspd
+  wire_width: 0.16
+- area: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id002
+  - !!binary |
+    MzMzMzMzcEA=
+  expected_resistance: 2400000
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAABquEAAAAAAALiBQA==
+  num_squares: 4000
+  size: !!python/tuple
+  - !!python/object/apply:numpy.core.multiarray.scalar
+    - *id002
+    - !!binary |
+      yvU7P4UZMEA=
+  - !!python/object/apply:numpy.core.multiarray.scalar
+    - *id002
+    - !!binary |
+      yvU7P4UZMEA=
+  snspd_layer: !!python/object:phidl.device_layout.Layer {alpha: 0.6, color: '#006400',
+    description: superconductor (wsi), dither: null, gds_datatype: 0, gds_layer: 12,
+    inverted: false, name: m2_nw}
+  type: test_snspd
+  wire_width: 0.18
+- area: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id002
+  - !!binary |
+    AQAAAAAAdEA=
+  expected_resistance: 2400000
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAACWuUAAAAAAALiBQA==
+  num_squares: 4000
+  size: !!python/tuple
+  - !!python/object/apply:numpy.core.multiarray.scalar
+    - *id002
+    - !!binary |
+      qPSXm3fjMUA=
+  - !!python/object/apply:numpy.core.multiarray.scalar
+    - *id002
+    - !!binary |
+      qPSXm3fjMUA=
+  snspd_layer: !!python/object:phidl.device_layout.Layer {alpha: 0.6, color: '#006400',
+    description: superconductor (wsi), dither: null, gds_datatype: 0, gds_layer: 12,
+    inverted: false, name: m2_nw}
+  type: test_snspd
+  wire_width: 0.2
+- area: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id002
+  - !!binary |
+    zczMzMzMfEA=
+  expected_resistance: 2400000
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAADCukAAAAAAALiBQA==
+  num_squares: 4000
+  size: !!python/tuple
+  - !!python/object/apply:numpy.core.multiarray.scalar
+    - *id002
+    - !!binary |
+      Y/JPVFx3NUA=
+  - !!python/object/apply:numpy.core.multiarray.scalar
+    - *id002
+    - !!binary |
+      Y/JPVFx3NUA=
+  snspd_layer: !!python/object:phidl.device_layout.Layer {alpha: 0.6, color: '#006400',
+    description: superconductor (wsi), dither: null, gds_datatype: 0, gds_layer: 12,
+    inverted: false, name: m2_nw}
+  type: test_snspd
+  wire_width: 0.24
+- area: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id002
+  - !!binary |
+    AQAAAAAAlEA=
+  expected_resistance: 2400000
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAADuu0AAAAAAALiBQA==
+  num_squares: 4000
+  size: !!python/tuple
+  - !!python/object/apply:numpy.core.multiarray.scalar
+    - *id002
+    - !!binary |
+      qPSXm3fjQUA=
+  - !!python/object/apply:numpy.core.multiarray.scalar
+    - *id002
+    - !!binary |
+      qPSXm3fjQUA=
+  snspd_layer: !!python/object:phidl.device_layout.Layer {alpha: 0.6, color: '#006400',
+    description: superconductor (wsi), dither: null, gds_datatype: 0, gds_layer: 12,
+    inverted: false, name: m2_nw}
+  type: test_snspd
+  wire_width: 0.4
+- area: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id002
+  - !!binary |
+    AAAAAAAAMEA=
+  expected_resistance: 3000000
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAAA2sEDmT8xHrRiBwA==
+  num_squares: 5000
+  size: !!python/tuple
+  - !!python/object/apply:numpy.core.multiarray.scalar
+    - *id002
+    - !!binary |
+      AAAAAAAAEEA=
+  - !!python/object/apply:numpy.core.multiarray.scalar
+    - *id002
+    - !!binary |
+      AAAAAAAAEEA=
+  snspd_layer: !!python/object:phidl.device_layout.Layer {alpha: 0.6, color: '#006400',
+    description: superconductor (wsi), dither: null, gds_datatype: 0, gds_layer: 12,
+    inverted: false, name: m2_nw}
+  type: test_snspd
+  wire_width: 0.04
+- area: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id002
+  - !!binary |
+    AAAAAAAAQkA=
+  expected_resistance: 3000000
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAABisUDmT8xHrRiBwA==
+  num_squares: 5000
+  size: !!python/tuple
+  - !!python/object/apply:numpy.core.multiarray.scalar
+    - *id002
+    - !!binary |
+      AAAAAAAAGEA=
+  - !!python/object/apply:numpy.core.multiarray.scalar
+    - *id002
+    - !!binary |
+      AAAAAAAAGEA=
+  snspd_layer: !!python/object:phidl.device_layout.Layer {alpha: 0.6, color: '#006400',
+    description: superconductor (wsi), dither: null, gds_datatype: 0, gds_layer: 12,
+    inverted: false, name: m2_nw}
+  type: test_snspd
+  wire_width: 0.06
+- area: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id002
+  - !!binary |
+    AAAAAAAAUEA=
+  expected_resistance: 3000000
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAACOskDmT8xHrRiBwA==
+  num_squares: 5000
+  size: !!python/tuple
+  - !!python/object/apply:numpy.core.multiarray.scalar
+    - *id002
+    - !!binary |
+      AAAAAAAAIEA=
+  - !!python/object/apply:numpy.core.multiarray.scalar
+    - *id002
+    - !!binary |
+      AAAAAAAAIEA=
+  snspd_layer: !!python/object:phidl.device_layout.Layer {alpha: 0.6, color: '#006400',
+    description: superconductor (wsi), dither: null, gds_datatype: 0, gds_layer: 12,
+    inverted: false, name: m2_nw}
+  type: test_snspd
+  wire_width: 0.08
+- area: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id002
+  - !!binary |
+    AAAAAAAAWUA=
+  expected_resistance: 3000000
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAAC6s0DmT8xHrRiBwA==
+  num_squares: 5000
+  size: !!python/tuple
+  - !!python/object/apply:numpy.core.multiarray.scalar
+    - *id002
+    - !!binary |
+      AAAAAAAAJEA=
+  - !!python/object/apply:numpy.core.multiarray.scalar
+    - *id002
+    - !!binary |
+      AAAAAAAAJEA=
+  snspd_layer: !!python/object:phidl.device_layout.Layer {alpha: 0.6, color: '#006400',
+    description: superconductor (wsi), dither: null, gds_datatype: 0, gds_layer: 12,
+    inverted: false, name: m2_nw}
+  type: test_snspd
+  wire_width: 0.1
+- area: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id002
+  - !!binary |
+    AAAAAAAAYkA=
+  expected_resistance: 3000000
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAADmtEDmT8xHrRiBwA==
+  num_squares: 5000
+  size: !!python/tuple
+  - !!python/object/apply:numpy.core.multiarray.scalar
+    - *id002
+    - !!binary |
+      AAAAAAAAKEA=
+  - !!python/object/apply:numpy.core.multiarray.scalar
+    - *id002
+    - !!binary |
+      AAAAAAAAKEA=
+  snspd_layer: !!python/object:phidl.device_layout.Layer {alpha: 0.6, color: '#006400',
+    description: superconductor (wsi), dither: null, gds_datatype: 0, gds_layer: 12,
+    inverted: false, name: m2_nw}
+  type: test_snspd
+  wire_width: 0.12
+- area: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id002
+  - !!binary |
+    AgAAAACAaEA=
+  expected_resistance: 3000000
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAAAStkDmT8xHrRiBwA==
+  num_squares: 5000
+  size: !!python/tuple
+  - !!python/object/apply:numpy.core.multiarray.scalar
+    - *id002
+    - !!binary |
+      AQAAAAAALEA=
+  - !!python/object/apply:numpy.core.multiarray.scalar
+    - *id002
+    - !!binary |
+      AQAAAAAALEA=
+  snspd_layer: !!python/object:phidl.device_layout.Layer {alpha: 0.6, color: '#006400',
+    description: superconductor (wsi), dither: null, gds_datatype: 0, gds_layer: 12,
+    inverted: false, name: m2_nw}
+  type: test_snspd
+  wire_width: 0.14
+- area: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id002
+  - !!binary |
+    AAAAAAAAcEA=
+  expected_resistance: 3000000
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAAA+t0DmT8xHrRiBwA==
+  num_squares: 5000
+  size: !!python/tuple
+  - !!python/object/apply:numpy.core.multiarray.scalar
+    - *id002
+    - !!binary |
+      AAAAAAAAMEA=
+  - !!python/object/apply:numpy.core.multiarray.scalar
+    - *id002
+    - !!binary |
+      AAAAAAAAMEA=
+  snspd_layer: !!python/object:phidl.device_layout.Layer {alpha: 0.6, color: '#006400',
+    description: superconductor (wsi), dither: null, gds_datatype: 0, gds_layer: 12,
+    inverted: false, name: m2_nw}
+  type: test_snspd
+  wire_width: 0.16
+- area: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id002
+  - !!binary |
+    AAAAAABAdEA=
+  expected_resistance: 3000000
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAABquEDmT8xHrRiBwA==
+  num_squares: 5000
+  size: !!python/tuple
+  - !!python/object/apply:numpy.core.multiarray.scalar
+    - *id002
+    - !!binary |
+      AAAAAAAAMkA=
+  - !!python/object/apply:numpy.core.multiarray.scalar
+    - *id002
+    - !!binary |
+      AAAAAAAAMkA=
+  snspd_layer: !!python/object:phidl.device_layout.Layer {alpha: 0.6, color: '#006400',
+    description: superconductor (wsi), dither: null, gds_datatype: 0, gds_layer: 12,
+    inverted: false, name: m2_nw}
+  type: test_snspd
+  wire_width: 0.18
+- area: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id002
+  - !!binary |
+    AAAAAAAAeUA=
+  expected_resistance: 3000000
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAACWuUDmT8xHrRiBwA==
+  num_squares: 5000
+  size: !!python/tuple
+  - !!python/object/apply:numpy.core.multiarray.scalar
+    - *id002
+    - !!binary |
+      AAAAAAAANEA=
+  - !!python/object/apply:numpy.core.multiarray.scalar
+    - *id002
+    - !!binary |
+      AAAAAAAANEA=
+  snspd_layer: !!python/object:phidl.device_layout.Layer {alpha: 0.6, color: '#006400',
+    description: superconductor (wsi), dither: null, gds_datatype: 0, gds_layer: 12,
+    inverted: false, name: m2_nw}
+  type: test_snspd
+  wire_width: 0.2
+- area: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id002
+  - !!binary |
+    AAAAAAAAgkA=
+  expected_resistance: 3000000
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAADCukDmT8xHrRiBwA==
+  num_squares: 5000
+  size: !!python/tuple
+  - !!python/object/apply:numpy.core.multiarray.scalar
+    - *id002
+    - !!binary |
+      AAAAAAAAOEA=
+  - !!python/object/apply:numpy.core.multiarray.scalar
+    - *id002
+    - !!binary |
+      AAAAAAAAOEA=
+  snspd_layer: !!python/object:phidl.device_layout.Layer {alpha: 0.6, color: '#006400',
+    description: superconductor (wsi), dither: null, gds_datatype: 0, gds_layer: 12,
+    inverted: false, name: m2_nw}
+  type: test_snspd
+  wire_width: 0.24
+- area: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id002
+  - !!binary |
+    AAAAAAAAmUA=
+  expected_resistance: 3000000
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAADuu0DmT8xHrRiBwA==
+  num_squares: 5000
+  size: !!python/tuple
+  - !!python/object/apply:numpy.core.multiarray.scalar
+    - *id002
+    - !!binary |
+      AAAAAAAAREA=
+  - !!python/object/apply:numpy.core.multiarray.scalar
+    - *id002
+    - !!binary |
+      AAAAAAAAREA=
+  snspd_layer: !!python/object:phidl.device_layout.Layer {alpha: 0.6, color: '#006400',
+    description: superconductor (wsi), dither: null, gds_datatype: 0, gds_layer: 12,
+    inverted: false, name: m2_nw}
+  type: test_snspd
+  wire_width: 0.4
+- area: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id002
+  - !!binary |
+    MjMzMzMzM0A=
+  expected_resistance: 3600000
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAAA2sEBAkO+KkQWawA==
+  num_squares: 6000
+  size: !!python/tuple
+  - !!python/object/apply:numpy.core.multiarray.scalar
+    - *id002
+    - !!binary |
+      coT4dPGGEUA=
+  - !!python/object/apply:numpy.core.multiarray.scalar
+    - *id002
+    - !!binary |
+      coT4dPGGEUA=
+  snspd_layer: !!python/object:phidl.device_layout.Layer {alpha: 0.6, color: '#006400',
+    description: superconductor (wsi), dither: null, gds_datatype: 0, gds_layer: 12,
+    inverted: false, name: m2_nw}
+  type: test_snspd
+  wire_width: 0.04
+- area: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id002
+  - !!binary |
+    mZmZmZmZRUA=
+  expected_resistance: 3600000
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAABisUBAkO+KkQWawA==
+  num_squares: 6000
+  size: !!python/tuple
+  - !!python/object/apply:numpy.core.multiarray.scalar
+    - *id002
+    - !!binary |
+      q8Z0L2pKGkA=
+  - !!python/object/apply:numpy.core.multiarray.scalar
+    - *id002
+    - !!binary |
+      q8Z0L2pKGkA=
+  snspd_layer: !!python/object:phidl.device_layout.Layer {alpha: 0.6, color: '#006400',
+    description: superconductor (wsi), dither: null, gds_datatype: 0, gds_layer: 12,
+    inverted: false, name: m2_nw}
+  type: test_snspd
+  wire_width: 0.06
+- area: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id002
+  - !!binary |
+    MjMzMzMzU0A=
+  expected_resistance: 3600000
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAACOskBAkO+KkQWawA==
+  num_squares: 6000
+  size: !!python/tuple
+  - !!python/object/apply:numpy.core.multiarray.scalar
+    - *id002
+    - !!binary |
+      coT4dPGGIUA=
+  - !!python/object/apply:numpy.core.multiarray.scalar
+    - *id002
+    - !!binary |
+      coT4dPGGIUA=
+  snspd_layer: !!python/object:phidl.device_layout.Layer {alpha: 0.6, color: '#006400',
+    description: superconductor (wsi), dither: null, gds_datatype: 0, gds_layer: 12,
+    inverted: false, name: m2_nw}
+  type: test_snspd
+  wire_width: 0.08
+- area: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id002
+  - !!binary |
+    AwAAAAAAXkA=
+  expected_resistance: 3600000
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAAC6s0BAkO+KkQWawA==
+  num_squares: 6000
+  size: !!python/tuple
+  - !!python/object/apply:numpy.core.multiarray.scalar
+    - *id002
+    - !!binary |
+      kKU20q3oJUA=
+  - !!python/object/apply:numpy.core.multiarray.scalar
+    - *id002
+    - !!binary |
+      kKU20q3oJUA=
+  snspd_layer: !!python/object:phidl.device_layout.Layer {alpha: 0.6, color: '#006400',
+    description: superconductor (wsi), dither: null, gds_datatype: 0, gds_layer: 12,
+    inverted: false, name: m2_nw}
+  type: test_snspd
+  wire_width: 0.1
+- area: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id002
+  - !!binary |
+    mZmZmZmZZUA=
+  expected_resistance: 3600000
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAADmtEBAkO+KkQWawA==
+  num_squares: 6000
+  size: !!python/tuple
+  - !!python/object/apply:numpy.core.multiarray.scalar
+    - *id002
+    - !!binary |
+      q8Z0L2pKKkA=
+  - !!python/object/apply:numpy.core.multiarray.scalar
+    - *id002
+    - !!binary |
+      q8Z0L2pKKkA=
+  snspd_layer: !!python/object:phidl.device_layout.Layer {alpha: 0.6, color: '#006400',
+    description: superconductor (wsi), dither: null, gds_datatype: 0, gds_layer: 12,
+    inverted: false, name: m2_nw}
+  type: test_snspd
+  wire_width: 0.12
+- area: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id002
+  - !!binary |
+    aGZmZmZmbUA=
+  expected_resistance: 3600000
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAAAStkBAkO+KkQWawA==
+  num_squares: 6000
+  size: !!python/tuple
+  - !!python/object/apply:numpy.core.multiarray.scalar
+    - *id002
+    - !!binary |
+      yeeyjCasLkA=
+  - !!python/object/apply:numpy.core.multiarray.scalar
+    - *id002
+    - !!binary |
+      yeeyjCasLkA=
+  snspd_layer: !!python/object:phidl.device_layout.Layer {alpha: 0.6, color: '#006400',
+    description: superconductor (wsi), dither: null, gds_datatype: 0, gds_layer: 12,
+    inverted: false, name: m2_nw}
+  type: test_snspd
+  wire_width: 0.14
+- area: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id002
+  - !!binary |
+    MjMzMzMzc0A=
+  expected_resistance: 3600000
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAAA+t0BAkO+KkQWawA==
+  num_squares: 6000
+  size: !!python/tuple
+  - !!python/object/apply:numpy.core.multiarray.scalar
+    - *id002
+    - !!binary |
+      coT4dPGGMUA=
+  - !!python/object/apply:numpy.core.multiarray.scalar
+    - *id002
+    - !!binary |
+      coT4dPGGMUA=
+  snspd_layer: !!python/object:phidl.device_layout.Layer {alpha: 0.6, color: '#006400',
+    description: superconductor (wsi), dither: null, gds_datatype: 0, gds_layer: 12,
+    inverted: false, name: m2_nw}
+  type: test_snspd
+  wire_width: 0.16
+- area: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id002
+  - !!binary |
+    y8zMzMxMeEA=
+  expected_resistance: 3600000
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAABquEBAkO+KkQWawA==
+  num_squares: 6000
+  size: !!python/tuple
+  - !!python/object/apply:numpy.core.multiarray.scalar
+    - *id002
+    - !!binary |
+      AJWXo8+3M0A=
+  - !!python/object/apply:numpy.core.multiarray.scalar
+    - *id002
+    - !!binary |
+      AJWXo8+3M0A=
+  snspd_layer: !!python/object:phidl.device_layout.Layer {alpha: 0.6, color: '#006400',
+    description: superconductor (wsi), dither: null, gds_datatype: 0, gds_layer: 12,
+    inverted: false, name: m2_nw}
+  type: test_snspd
+  wire_width: 0.18
+- area: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id002
+  - !!binary |
+    AwAAAAAAfkA=
+  expected_resistance: 3600000
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAACWuUBAkO+KkQWawA==
+  num_squares: 6000
+  size: !!python/tuple
+  - !!python/object/apply:numpy.core.multiarray.scalar
+    - *id002
+    - !!binary |
+      kKU20q3oNUA=
+  - !!python/object/apply:numpy.core.multiarray.scalar
+    - *id002
+    - !!binary |
+      kKU20q3oNUA=
+  snspd_layer: !!python/object:phidl.device_layout.Layer {alpha: 0.6, color: '#006400',
+    description: superconductor (wsi), dither: null, gds_datatype: 0, gds_layer: 12,
+    inverted: false, name: m2_nw}
+  type: test_snspd
+  wire_width: 0.2
+- area: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id002
+  - !!binary |
+    mZmZmZmZhUA=
+  expected_resistance: 3600000
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAADCukBAkO+KkQWawA==
+  num_squares: 6000
+  size: !!python/tuple
+  - !!python/object/apply:numpy.core.multiarray.scalar
+    - *id002
+    - !!binary |
+      q8Z0L2pKOkA=
+  - !!python/object/apply:numpy.core.multiarray.scalar
+    - *id002
+    - !!binary |
+      q8Z0L2pKOkA=
+  snspd_layer: !!python/object:phidl.device_layout.Layer {alpha: 0.6, color: '#006400',
+    description: superconductor (wsi), dither: null, gds_datatype: 0, gds_layer: 12,
+    inverted: false, name: m2_nw}
+  type: test_snspd
+  wire_width: 0.24
+- area: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id002
+  - !!binary |
+    AwAAAAAAnkA=
+  expected_resistance: 3600000
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAADuu0BAkO+KkQWawA==
+  num_squares: 6000
+  size: !!python/tuple
+  - !!python/object/apply:numpy.core.multiarray.scalar
+    - *id002
+    - !!binary |
+      kKU20q3oRUA=
+  - !!python/object/apply:numpy.core.multiarray.scalar
+    - *id002
+    - !!binary |
+      kKU20q3oRUA=
+  snspd_layer: !!python/object:phidl.device_layout.Layer {alpha: 0.6, color: '#006400',
+    description: superconductor (wsi), dither: null, gds_datatype: 0, gds_layer: 12,
+    inverted: false, name: m2_nw}
+  type: test_snspd
+  wire_width: 0.4
+- area: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id002
+  - !!binary |
+    ZmZmZmZmNkA=
+  expected_resistance: 4200000
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAAA2sEDdVkXwCMelwA==
+  num_squares: 7000
+  size: !!python/tuple
+  - !!python/object/apply:numpy.core.multiarray.scalar
+    - *id002
+    - !!binary |
+      V5vc2nPuEkA=
+  - !!python/object/apply:numpy.core.multiarray.scalar
+    - *id002
+    - !!binary |
+      V5vc2nPuEkA=
+  snspd_layer: !!python/object:phidl.device_layout.Layer {alpha: 0.6, color: '#006400',
+    description: superconductor (wsi), dither: null, gds_datatype: 0, gds_layer: 12,
+    inverted: false, name: m2_nw}
+  type: test_snspd
+  wire_width: 0.04
+- area: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id002
+  - !!binary |
+    NDMzMzMzSUA=
+  expected_resistance: 4200000
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAABisUDdVkXwCMelwA==
+  num_squares: 7000
+  size: !!python/tuple
+  - !!python/object/apply:numpy.core.multiarray.scalar
+    - *id002
+    - !!binary |
+      A+lKyK1lHEA=
+  - !!python/object/apply:numpy.core.multiarray.scalar
+    - *id002
+    - !!binary |
+      A+lKyK1lHEA=
+  snspd_layer: !!python/object:phidl.device_layout.Layer {alpha: 0.6, color: '#006400',
+    description: superconductor (wsi), dither: null, gds_datatype: 0, gds_layer: 12,
+    inverted: false, name: m2_nw}
+  type: test_snspd
+  wire_width: 0.06
+- area: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id002
+  - !!binary |
+    ZmZmZmZmVkA=
+  expected_resistance: 4200000
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAACOskDdVkXwCMelwA==
+  num_squares: 7000
+  size: !!python/tuple
+  - !!python/object/apply:numpy.core.multiarray.scalar
+    - *id002
+    - !!binary |
+      V5vc2nPuIkA=
+  - !!python/object/apply:numpy.core.multiarray.scalar
+    - *id002
+    - !!binary |
+      V5vc2nPuIkA=
+  snspd_layer: !!python/object:phidl.device_layout.Layer {alpha: 0.6, color: '#006400',
+    description: superconductor (wsi), dither: null, gds_datatype: 0, gds_layer: 12,
+    inverted: false, name: m2_nw}
+  type: test_snspd
+  wire_width: 0.08
+- area: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id002
+  - !!binary |
+    AgAAAACAYUA=
+  expected_resistance: 4200000
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAAC6s0DdVkXwCMelwA==
+  num_squares: 7000
+  size: !!python/tuple
+  - !!python/object/apply:numpy.core.multiarray.scalar
+    - *id002
+    - !!binary |
+      LsKT0RCqJ0A=
+  - !!python/object/apply:numpy.core.multiarray.scalar
+    - *id002
+    - !!binary |
+      LsKT0RCqJ0A=
+  snspd_layer: !!python/object:phidl.device_layout.Layer {alpha: 0.6, color: '#006400',
+    description: superconductor (wsi), dither: null, gds_datatype: 0, gds_layer: 12,
+    inverted: false, name: m2_nw}
+  type: test_snspd
+  wire_width: 0.1
+- area: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id002
+  - !!binary |
+    NDMzMzMzaUA=
+  expected_resistance: 4200000
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAADmtEDdVkXwCMelwA==
+  num_squares: 7000
+  size: !!python/tuple
+  - !!python/object/apply:numpy.core.multiarray.scalar
+    - *id002
+    - !!binary |
+      A+lKyK1lLEA=
+  - !!python/object/apply:numpy.core.multiarray.scalar
+    - *id002
+    - !!binary |
+      A+lKyK1lLEA=
+  snspd_layer: !!python/object:phidl.device_layout.Layer {alpha: 0.6, color: '#006400',
+    description: superconductor (wsi), dither: null, gds_datatype: 0, gds_layer: 12,
+    inverted: false, name: m2_nw}
+  type: test_snspd
+  wire_width: 0.12
+- area: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id002
+  - !!binary |
+    aGZmZmYmcUA=
+  expected_resistance: 4200000
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAAAStkDdVkXwCMelwA==
+  num_squares: 7000
+  size: !!python/tuple
+  - !!python/object/apply:numpy.core.multiarray.scalar
+    - *id002
+    - !!binary |
+      7QeBX6WQMEA=
+  - !!python/object/apply:numpy.core.multiarray.scalar
+    - *id002
+    - !!binary |
+      7QeBX6WQMEA=
+  snspd_layer: !!python/object:phidl.device_layout.Layer {alpha: 0.6, color: '#006400',
+    description: superconductor (wsi), dither: null, gds_datatype: 0, gds_layer: 12,
+    inverted: false, name: m2_nw}
+  type: test_snspd
+  wire_width: 0.14
+- area: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id002
+  - !!binary |
+    ZmZmZmZmdkA=
+  expected_resistance: 4200000
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAAA+t0DdVkXwCMelwA==
+  num_squares: 7000
+  size: !!python/tuple
+  - !!python/object/apply:numpy.core.multiarray.scalar
+    - *id002
+    - !!binary |
+      V5vc2nPuMkA=
+  - !!python/object/apply:numpy.core.multiarray.scalar
+    - *id002
+    - !!binary |
+      V5vc2nPuMkA=
+  snspd_layer: !!python/object:phidl.device_layout.Layer {alpha: 0.6, color: '#006400',
+    description: superconductor (wsi), dither: null, gds_datatype: 0, gds_layer: 12,
+    inverted: false, name: m2_nw}
+  type: test_snspd
+  wire_width: 0.16
+- area: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id002
+  - !!binary |
+    mpmZmZlZfEA=
+  expected_resistance: 4200000
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAABquEDdVkXwCMelwA==
+  num_squares: 7000
+  size: !!python/tuple
+  - !!python/object/apply:numpy.core.multiarray.scalar
+    - *id002
+    - !!binary |
+      wi44VkJMNUA=
+  - !!python/object/apply:numpy.core.multiarray.scalar
+    - *id002
+    - !!binary |
+      wi44VkJMNUA=
+  snspd_layer: !!python/object:phidl.device_layout.Layer {alpha: 0.6, color: '#006400',
+    description: superconductor (wsi), dither: null, gds_datatype: 0, gds_layer: 12,
+    inverted: false, name: m2_nw}
+  type: test_snspd
+  wire_width: 0.18
+- area: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id002
+  - !!binary |
+    AgAAAACAgUA=
+  expected_resistance: 4200000
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAACWuUDdVkXwCMelwA==
+  num_squares: 7000
+  size: !!python/tuple
+  - !!python/object/apply:numpy.core.multiarray.scalar
+    - *id002
+    - !!binary |
+      LsKT0RCqN0A=
+  - !!python/object/apply:numpy.core.multiarray.scalar
+    - *id002
+    - !!binary |
+      LsKT0RCqN0A=
+  snspd_layer: !!python/object:phidl.device_layout.Layer {alpha: 0.6, color: '#006400',
+    description: superconductor (wsi), dither: null, gds_datatype: 0, gds_layer: 12,
+    inverted: false, name: m2_nw}
+  type: test_snspd
+  wire_width: 0.2
+- area: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id002
+  - !!binary |
+    NDMzMzMziUA=
+  expected_resistance: 4200000
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAADCukDdVkXwCMelwA==
+  num_squares: 7000
+  size: !!python/tuple
+  - !!python/object/apply:numpy.core.multiarray.scalar
+    - *id002
+    - !!binary |
+      A+lKyK1lPEA=
+  - !!python/object/apply:numpy.core.multiarray.scalar
+    - *id002
+    - !!binary |
+      A+lKyK1lPEA=
+  snspd_layer: !!python/object:phidl.device_layout.Layer {alpha: 0.6, color: '#006400',
+    description: superconductor (wsi), dither: null, gds_datatype: 0, gds_layer: 12,
+    inverted: false, name: m2_nw}
+  type: test_snspd
+  wire_width: 0.24
+- area: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id002
+  - !!binary |
+    AgAAAACAoUA=
+  expected_resistance: 4200000
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAADuu0DdVkXwCMelwA==
+  num_squares: 7000
+  size: !!python/tuple
+  - !!python/object/apply:numpy.core.multiarray.scalar
+    - *id002
+    - !!binary |
+      LsKT0RCqR0A=
+  - !!python/object/apply:numpy.core.multiarray.scalar
+    - *id002
+    - !!binary |
+      LsKT0RCqR0A=
+  snspd_layer: !!python/object:phidl.device_layout.Layer {alpha: 0.6, color: '#006400',
+    description: superconductor (wsi), dither: null, gds_datatype: 0, gds_layer: 12,
+    inverted: false, name: m2_nw}
+  type: test_snspd
+  wire_width: 0.4
+- area: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id002
+  - !!binary |
+    mpmZmZmZOUA=
+  expected_resistance: 4800000
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAAA2sEAMWhCnTpKuwA==
+  num_squares: 8000
+  size: !!python/tuple
+  - !!python/object/apply:numpy.core.multiarray.scalar
+    - *id002
+    - !!binary |
+      D0lIYhM9FEA=
+  - !!python/object/apply:numpy.core.multiarray.scalar
+    - *id002
+    - !!binary |
+      D0lIYhM9FEA=
+  snspd_layer: !!python/object:phidl.device_layout.Layer {alpha: 0.6, color: '#006400',
+    description: superconductor (wsi), dither: null, gds_datatype: 0, gds_layer: 12,
+    inverted: false, name: m2_nw}
+  type: test_snspd
+  wire_width: 0.04
+- area: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id002
+  - !!binary |
+    zMzMzMzMTEA=
+  expected_resistance: 4800000
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAABisUAMWhCnTpKuwA==
+  num_squares: 8000
+  size: !!python/tuple
+  - !!python/object/apply:numpy.core.multiarray.scalar
+    - *id002
+    - !!binary |
+      lm1sE51bHkA=
+  - !!python/object/apply:numpy.core.multiarray.scalar
+    - *id002
+    - !!binary |
+      lm1sE51bHkA=
+  snspd_layer: !!python/object:phidl.device_layout.Layer {alpha: 0.6, color: '#006400',
+    description: superconductor (wsi), dither: null, gds_datatype: 0, gds_layer: 12,
+    inverted: false, name: m2_nw}
+  type: test_snspd
+  wire_width: 0.06
+- area: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id002
+  - !!binary |
+    mpmZmZmZWUA=
+  expected_resistance: 4800000
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAACOskAMWhCnTpKuwA==
+  num_squares: 8000
+  size: !!python/tuple
+  - !!python/object/apply:numpy.core.multiarray.scalar
+    - *id002
+    - !!binary |
+      D0lIYhM9JEA=
+  - !!python/object/apply:numpy.core.multiarray.scalar
+    - *id002
+    - !!binary |
+      D0lIYhM9JEA=
+  snspd_layer: !!python/object:phidl.device_layout.Layer {alpha: 0.6, color: '#006400',
+    description: superconductor (wsi), dither: null, gds_datatype: 0, gds_layer: 12,
+    inverted: false, name: m2_nw}
+  type: test_snspd
+  wire_width: 0.08
+- area: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id002
+  - !!binary |
+    AQAAAAAAZEA=
+  expected_resistance: 4800000
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAAC6s0AMWhCnTpKuwA==
+  num_squares: 8000
+  size: !!python/tuple
+  - !!python/object/apply:numpy.core.multiarray.scalar
+    - *id002
+    - !!binary |
+      U1vaOlhMKUA=
+  - !!python/object/apply:numpy.core.multiarray.scalar
+    - *id002
+    - !!binary |
+      U1vaOlhMKUA=
+  snspd_layer: !!python/object:phidl.device_layout.Layer {alpha: 0.6, color: '#006400',
+    description: superconductor (wsi), dither: null, gds_datatype: 0, gds_layer: 12,
+    inverted: false, name: m2_nw}
+  type: test_snspd
+  wire_width: 0.1
+- area: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id002
+  - !!binary |
+    zMzMzMzMbEA=
+  expected_resistance: 4800000
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAADmtEAMWhCnTpKuwA==
+  num_squares: 8000
+  size: !!python/tuple
+  - !!python/object/apply:numpy.core.multiarray.scalar
+    - *id002
+    - !!binary |
+      lm1sE51bLkA=
+  - !!python/object/apply:numpy.core.multiarray.scalar
+    - *id002
+    - !!binary |
+      lm1sE51bLkA=
+  snspd_layer: !!python/object:phidl.device_layout.Layer {alpha: 0.6, color: '#006400',
+    description: superconductor (wsi), dither: null, gds_datatype: 0, gds_layer: 12,
+    inverted: false, name: m2_nw}
+  type: test_snspd
+  wire_width: 0.12
+- area: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id002
+  - !!binary |
+    mpmZmZmZc0A=
+  expected_resistance: 4800000
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAAAStkAMWhCnTpKuwA==
+  num_squares: 8000
+  size: !!python/tuple
+  - !!python/object/apply:numpy.core.multiarray.scalar
+    - *id002
+    - !!binary |
+      7T//9XC1MUA=
+  - !!python/object/apply:numpy.core.multiarray.scalar
+    - *id002
+    - !!binary |
+      7T//9XC1MUA=
+  snspd_layer: !!python/object:phidl.device_layout.Layer {alpha: 0.6, color: '#006400',
+    description: superconductor (wsi), dither: null, gds_datatype: 0, gds_layer: 12,
+    inverted: false, name: m2_nw}
+  type: test_snspd
+  wire_width: 0.14
+- area: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id002
+  - !!binary |
+    mpmZmZmZeUA=
+  expected_resistance: 4800000
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAAA+t0AMWhCnTpKuwA==
+  num_squares: 8000
+  size: !!python/tuple
+  - !!python/object/apply:numpy.core.multiarray.scalar
+    - *id002
+    - !!binary |
+      D0lIYhM9NEA=
+  - !!python/object/apply:numpy.core.multiarray.scalar
+    - *id002
+    - !!binary |
+      D0lIYhM9NEA=
+  snspd_layer: !!python/object:phidl.device_layout.Layer {alpha: 0.6, color: '#006400',
+    description: superconductor (wsi), dither: null, gds_datatype: 0, gds_layer: 12,
+    inverted: false, name: m2_nw}
+  type: test_snspd
+  wire_width: 0.16
+- area: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id002
+  - !!binary |
+    NDMzMzMzgEA=
+  expected_resistance: 4800000
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAABquEAMWhCnTpKuwA==
+  num_squares: 8000
+  size: !!python/tuple
+  - !!python/object/apply:numpy.core.multiarray.scalar
+    - *id002
+    - !!binary |
+      MVKRzrXENkA=
+  - !!python/object/apply:numpy.core.multiarray.scalar
+    - *id002
+    - !!binary |
+      MVKRzrXENkA=
+  snspd_layer: !!python/object:phidl.device_layout.Layer {alpha: 0.6, color: '#006400',
+    description: superconductor (wsi), dither: null, gds_datatype: 0, gds_layer: 12,
+    inverted: false, name: m2_nw}
+  type: test_snspd
+  wire_width: 0.18
+- area: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id002
+  - !!binary |
+    AQAAAAAAhEA=
+  expected_resistance: 4800000
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAACWuUAMWhCnTpKuwA==
+  num_squares: 8000
+  size: !!python/tuple
+  - !!python/object/apply:numpy.core.multiarray.scalar
+    - *id002
+    - !!binary |
+      U1vaOlhMOUA=
+  - !!python/object/apply:numpy.core.multiarray.scalar
+    - *id002
+    - !!binary |
+      U1vaOlhMOUA=
+  snspd_layer: !!python/object:phidl.device_layout.Layer {alpha: 0.6, color: '#006400',
+    description: superconductor (wsi), dither: null, gds_datatype: 0, gds_layer: 12,
+    inverted: false, name: m2_nw}
+  type: test_snspd
+  wire_width: 0.2
+- area: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id002
+  - !!binary |
+    zMzMzMzMjEA=
+  expected_resistance: 4800000
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAADCukAMWhCnTpKuwA==
+  num_squares: 8000
+  size: !!python/tuple
+  - !!python/object/apply:numpy.core.multiarray.scalar
+    - *id002
+    - !!binary |
+      lm1sE51bPkA=
+  - !!python/object/apply:numpy.core.multiarray.scalar
+    - *id002
+    - !!binary |
+      lm1sE51bPkA=
+  snspd_layer: !!python/object:phidl.device_layout.Layer {alpha: 0.6, color: '#006400',
+    description: superconductor (wsi), dither: null, gds_datatype: 0, gds_layer: 12,
+    inverted: false, name: m2_nw}
+  type: test_snspd
+  wire_width: 0.24
+- area: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id002
+  - !!binary |
+    AQAAAAAApEA=
+  expected_resistance: 4800000
+  has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAADuu0AMWhCnTpKuwA==
+  num_squares: 8000
+  size: !!python/tuple
+  - !!python/object/apply:numpy.core.multiarray.scalar
+    - *id002
+    - !!binary |
+      U1vaOlhMSUA=
+  - !!python/object/apply:numpy.core.multiarray.scalar
+    - *id002
+    - !!binary |
+      U1vaOlhMSUA=
+  snspd_layer: !!python/object:phidl.device_layout.Layer {alpha: 0.6, color: '#006400',
+    description: superconductor (wsi), dither: null, gds_datatype: 0, gds_layer: 12,
+    inverted: false, name: m2_nw}
+  type: test_snspd
+  wire_width: 0.4
+- has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAABPsEDQO8C9DpO0wA==
+  num_squares: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id002
+  - !!binary |
+    QZa2yXpQs0A=
+  type: test_wngw
+- has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      nOweVUMxskDQO8C9DpO0wA==
+  num_squares: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id002
+  - !!binary |
+    Pabjmghes0A=
+  type: test_wngw
+- has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      vMSPYiUVtEDQO8C9DpO0wA==
+  num_squares: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id002
+  - !!binary |
+    NohhCa7Gs0A=
+  type: test_wngw
+- has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      YohSKKb6tUDQO8C9DpO0wA==
+  num_squares: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id002
+  - !!binary |
+    1ZMfjv+Us0A=
+  type: test_wngw
+- has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      9J3NDCzgt0DQO8C9DpO0wA==
+  num_squares: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id002
+  - !!binary |
+    3fSX6pJzs0A=
+  type: test_wngw
+- has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      cAUBELfFuUDQO8C9DpO0wA==
+  num_squares: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id002
+  - !!binary |
+    r9MZ341bs0A=
+  type: test_wngw
+- has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      2b7sMUeru0DQO8C9DpO0wA==
+  num_squares: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id002
+  - !!binary |
+    R5zOFnZJs0A=
+  type: test_wngw
+- has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      LcqQctyQvUDQO8C9DpO0wA==
+  num_squares: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id002
+  - !!binary |
+    mHIN4Vc7s0A=
+  type: test_wngw
+- has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      bCft0XZ2v0DQO8C9DpO0wA==
+  num_squares: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id002
+  - !!binary |
+    G4/IMgUws0A=
+  type: test_wngw
+- has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      TOsAKAuuwEDQO8C9DpO0wA==
+  num_squares: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id002
+  - !!binary |
+    N+aFh6Djs0A=
+  type: test_wngw
+- has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      mmGQ0qyhwUDQO8C9DpO0wA==
+  num_squares: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id002
+  - !!binary |
+    WDgVWr/Cs0A=
+  type: test_wngw
+- has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAABPsED8lGKc+py2wA==
+  num_squares: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id002
+  - !!binary |
+    x+kKnJW+s0A=
+  type: test_wngw
+- has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      NYa47twqskD8lGKc+py2wA==
+  num_squares: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id002
+  - !!binary |
+    RZxgKqdNs0A=
+  type: test_wngw
+- has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      iZFcL/IJtED8lGKc+py2wA==
+  num_squares: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id002
+  - !!binary |
+    LW3LA4PNs0A=
+  type: test_wngw
+- has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      /CHswT/stUD8lGKc+py2wA==
+  num_squares: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id002
+  - !!binary |
+    QZa2yXpQs0A=
+  type: test_wngw
+- has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      WgQ0c5LOt0D8lGKc+py2wA==
+  num_squares: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id002
+  - !!binary |
+    Sj+4I4qxs0A=
+  type: test_wngw
+- has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      PdLN3IOyuUD8lGKc+py2wA==
+  num_squares: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id002
+  - !!binary |
+    8gBx5A52s0A=
+  type: test_wngw
+- has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      DPIfZXqWu0D8lGKc+py2wA==
+  num_squares: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id002
+  - !!binary |
+    iUlG7+dIs0A=
+  type: test_wngw
+- has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      xmMqDHZ6vUD8lGKc+py2wA==
+  num_squares: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id002
+  - !!binary |
+    8PT2+Anis0A=
+  type: test_wngw
+- has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      BsGGaxBgv0D8lGKc+py2wA==
+  num_squares: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id002
+  - !!binary |
+    NohhCa7Gs0A=
+  type: test_wngw
+- has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      GLjN9NeiwED8lGKc+py2wA==
+  num_squares: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id002
+  - !!binary |
+    5t2/GFGds0A=
+  type: test_wngw
+- has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      mmGQ0qyVwUD8lGKc+py2wA==
+  num_squares: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id002
+  - !!binary |
+    R5zOFnZJs0A=
+  type: test_wngw
+- has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAABPsEBslLCl3sO4wA==
+  num_squares: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id002
+  - !!binary |
+    kKVtst5ot0A=
+  type: test_wngw
+- has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AlOFu6kfskBslLCl3sO4wA==
+  num_squares: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id002
+  - !!binary |
+    zh6cAepes0A=
+  type: test_wngw
+- has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      vMSPYiX1s0BslLCl3sO4wA==
+  num_squares: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id002
+  - !!binary |
+    x+kKnJW+s0A=
+  type: test_wngw
+- has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      yO64jgzRtUBslLCl3sO4wA==
+  num_squares: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id002
+  - !!binary |
+    Q27Mo3dYs0A=
+  type: test_wngw
+- has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      WgQ0c5Kut0BslLCl3sO4wA==
+  num_squares: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id002
+  - !!binary |
+    RZxgKqdNs0A=
+  type: test_wngw
+- has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      cAUBELeNuUBslLCl3sO4wA==
+  num_squares: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id002
+  - !!binary |
+    ECbxIzh7s0A=
+  type: test_wngw
+- has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      DPIfZXpuu0BslLCl3sO4wA==
+  num_squares: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id002
+  - !!binary |
+    LW3LA4PNs0A=
+  type: test_wngw
+- has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      LcqQctxQvUBslLCl3sO4wA==
+  num_squares: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id002
+  - !!binary |
+    X9263ouIs0A=
+  type: test_wngw
+- has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      OfS5nkMzv0BslLCl3sO4wA==
+  num_squares: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id002
+  - !!binary |
+    QZa2yXpQs0A=
+  type: test_wngw
+- has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      GLjN9NeKwEBslLCl3sO4wA==
+  num_squares: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id002
+  - !!binary |
+    Sj+4I4qxs0A=
+  type: test_wngw
+- has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      zJTDBeB8wUBslLCl3sO4wA==
+  num_squares: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id002
+  - !!binary |
+    NohhCa7Gs0A=
+  type: test_wngw
+- has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AAAAAABPsEA+SqVt+hq7wA==
+  num_squares: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id002
+  - !!binary |
+    yNI2WW94xUA=
+  type: test_wngw
+- has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      AlOFu6kfskA+SqVt+hq7wA==
+  num_squares: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id002
+  - !!binary |
+    O1AYXYnrvUA=
+  type: test_wngw
+- has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      8PfClVjws0A+SqVt+hq7wA==
+  num_squares: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id002
+  - !!binary |
+    kKVtst5ot0A=
+  type: test_wngw
+- has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      ye64jgzBtUA+SqVt+hq7wA==
+  num_squares: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id002
+  - !!binary |
+    kKVtst6As0A=
+  type: test_wngw
+- has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      jjdnpsWRt0A+SqVt+hq7wA==
+  num_squares: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id002
+  - !!binary |
+    zh6cAepes0A=
+  type: test_wngw
+- has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      Cp+aqVBnuUA+SqVt+hq7wA==
+  num_squares: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id002
+  - !!binary |
+    VtvE2whhs0A=
+  type: test_wngw
+- has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      pou5/hNAu0A+SqVt+hq7wA==
+  num_squares: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id002
+  - !!binary |
+    x+kKnJW+s0A=
+  type: test_wngw
+- has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      YP3DpQ8cvUA+SqVt+hq7wA==
+  num_squares: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id002
+  - !!binary |
+    Nd/JMpPHs0A=
+  type: test_wngw
+- has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      oFogBar5vkA+SqVt+hq7wA==
+  num_squares: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id002
+  - !!binary |
+    Q27Mo3dYs0A=
+  type: test_wngw
+- has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      5oSawaRrwEA+SqVt+hq7wA==
+  num_squares: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id002
+  - !!binary |
+    RZxgKqdNs0A=
+  type: test_wngw
+- has_info: true
+  is_wirebond: true
+  midpoint: !!python/object/apply:numpy.core.multiarray._reconstruct
+    args:
+    - *id001
+    - !!python/tuple [0]
+    - !!binary |
+      Yg==
+    state: !!python/tuple
+    - 1
+    - !!python/tuple [2]
+    - *id002
+    - false
+    - !!binary |
+      NPspbEZbwUA+SqVt+hq7wA==
+  num_squares: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id002
+  - !!binary |
+    QZa2yXpQs0A=
+  type: test_wngw
