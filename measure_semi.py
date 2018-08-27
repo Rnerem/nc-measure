@@ -9,8 +9,8 @@ sp = Semiprobe.prober() #sp is instance of prober object
 stream = open('/home/linaro/nc-phidl/die/WB_info.yaml','r')
 info = yaml.load(stream)
 
-dev_types = ['test_wngw', 'test_straight_wire', 'test_ic', 'test_snspd' ]
-first_dev_loc = {'test_wngw':[0,0], 'test_straight_wire':[0,0], 'test_ic':[0,0], 'test_snspd':[0,0]}
+dev_types = ['test_wngw', 'test_straight_wire', 'test_ic', 'test_snspd' ] # = None
+first_dev_loc = {'test_wngw':[0,0], 'test_straight_wire':[0,0], 'test_ic':[0,0], 'test_snspd':[0,0]}# = [x,y]
 num_die = 10
 def get_start(num_die, typ):
     die_start = []
@@ -19,22 +19,30 @@ def get_start(num_die, typ):
         startPt = sp.getPos()
         die_start += [startPt]
     return die_start
-    
+
 def measure(startPt, die_num, dev_type):
     for d in info:
-        if 'has_info' in d and d['has_info'] is True and (d['type'] == dev_type): 
-            loc = (np.array(d.midpoint) - np.array(first_dev_loc[dev_type]) + np.array(startPt))
+        if 'has_info' in d and d['has_info'] is True and ((d['type'] == dev_type) or dev_type ==None):
+            if dev_type != None:
+                loc = (np.array(d.midpoint) - np.array(first_dev_loc[dev_type]) + np.array(startPt))
+            if dev_type == None:
+                loc = (np.array(d.midpoint) - np.array(first_dev_loc) + np.array(startPt))
             sp.moveAbs(loc[0],loc[1])
             sp.contact()
             res = k.get_R()
             d['actual_resistance {die-num}'.format(die_num = die_num)] = res
             sp.seperation()
-    
-for typ in dev_types:
-    input('Adjust probes for {typ} and confirm [ENTER]'.formta(typ = typ))
-    die_start = get_start(num_die, typ)
+if dev_types == None:
+    input('Adjust probes and confirm [ENTER]')
+    die_start = get_start(num_die, '')
     for number, die in enumerate(die_start):
-        measure(die,number, typ)
-    
+        measure(die,number, None)
+else:
+    for typ in dev_types:
+        input('Adjust probes for {typ} and confirm [ENTER]'.formta(typ = typ))
+        die_start = get_start(num_die, typ)
+        for number, die in enumerate(die_start):
+            measure(die,number, typ)
+
 stream = open('WB_resistance.yaml','w')
 yaml.dump(info,stream)
